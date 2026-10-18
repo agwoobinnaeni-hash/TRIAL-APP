@@ -1,0 +1,8 @@
+{
+  "name": "Remix TurnoverEdge - Sports Prediction \u0026 Daily Bankroll Scanner",
+  "description": "Daily sports scanner pinpointing high-probability predictions, tailored peculiar markets, historical accuracy trends, and expert consensus for compound bankroll turnover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
